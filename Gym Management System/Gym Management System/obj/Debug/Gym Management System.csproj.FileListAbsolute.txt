@@ -1,0 +1,140 @@
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Registration.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Home.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddMember.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddTrainer.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.UpdateMember.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddEquipment.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteEquipment.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.MemberDetails.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.TrainerDetails.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.UpdateTrainer.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteMember.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteTrainer.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SearchMember.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SearchTrainer.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.MemberHome.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Profile.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Equipment.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Trainer.resources
+C:\Users\User\Desktop\C#\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ChangePassword.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csprojAssemblyReference.cache
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddEquipment.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddMember.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddTrainer.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ChangePassword.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteEquipment.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteMember.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteTrainer.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Equipment.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Home.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.MemberHome.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Profile.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Registration.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SearchMember.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SearchTrainer.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Trainer.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.UpdateMember.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.UpdateTrainer.resources
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+C:\Users\User\Desktop\fahad\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\Users\User\Desktop\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\Users\User\Desktop\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+C:\Users\User\Desktop\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddEquipment.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddMember.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddTrainer.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ChangePassword.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteEquipment.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteMember.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteTrainer.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Equipment.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Home.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.MemberHome.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Profile.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Registration.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SearchMember.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SearchTrainer.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Trainer.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.UpdateMember.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.UpdateTrainer.resources
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\Users\User\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.About.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csprojAssemblyReference.cache
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.About.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddEquipment.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddMember.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddTrainer.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ChangePassword.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteEquipment.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteMember.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteTrainer.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Equipment.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Home.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.MemberHome.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Profile.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Registration.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SearchMember.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SearchTrainer.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Trainer.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.UpdateMember.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.UpdateTrainer.resources
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+C:\Users\User\Desktop\code\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+G:\aiub\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+G:\aiub\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+G:\aiub\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.About.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddEquipment.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddMember.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddTrainer.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ChangePassword.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteEquipment.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteMember.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteTrainer.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Equipment.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Home.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.MemberHome.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Profile.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Registration.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SearchMember.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.SearchTrainer.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Trainer.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.UpdateMember.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.UpdateTrainer.resources
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+G:\aiub\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
